@@ -1,0 +1,20 @@
+C:\Users\DIPIKA\Downloads\Hexaware Joining Docs\Web Api Project\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\DIPIKA\Downloads\Hexaware Joining Docs\Web Api Project\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\DIPIKA\Downloads\Hexaware Joining Docs\Web Api Project\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\DIPIKA\Downloads\Hexaware Joining Docs\Web Api Project\bin\Debug\netcoreapp3.1\Web Api Project.exe
+C:\Users\DIPIKA\Downloads\Hexaware Joining Docs\Web Api Project\bin\Debug\netcoreapp3.1\Web Api Project.deps.json
+C:\Users\DIPIKA\Downloads\Hexaware Joining Docs\Web Api Project\bin\Debug\netcoreapp3.1\Web Api Project.runtimeconfig.json
+C:\Users\DIPIKA\Downloads\Hexaware Joining Docs\Web Api Project\bin\Debug\netcoreapp3.1\Web Api Project.runtimeconfig.dev.json
+C:\Users\DIPIKA\Downloads\Hexaware Joining Docs\Web Api Project\bin\Debug\netcoreapp3.1\Web Api Project.dll
+C:\Users\DIPIKA\Downloads\Hexaware Joining Docs\Web Api Project\bin\Debug\netcoreapp3.1\Web Api Project.pdb
+C:\Users\DIPIKA\Downloads\Hexaware Joining Docs\Web Api Project\obj\Debug\netcoreapp3.1\Web Api Project.csprojAssemblyReference.cache
+C:\Users\DIPIKA\Downloads\Hexaware Joining Docs\Web Api Project\obj\Debug\netcoreapp3.1\Web Api Project.csproj.CoreCompileInputs.cache
+C:\Users\DIPIKA\Downloads\Hexaware Joining Docs\Web Api Project\obj\Debug\netcoreapp3.1\Web Api Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DIPIKA\Downloads\Hexaware Joining Docs\Web Api Project\obj\Debug\netcoreapp3.1\Web Api Project.AssemblyInfoInputs.cache
+C:\Users\DIPIKA\Downloads\Hexaware Joining Docs\Web Api Project\obj\Debug\netcoreapp3.1\Web Api Project.AssemblyInfo.cs
+C:\Users\DIPIKA\Downloads\Hexaware Joining Docs\Web Api Project\obj\Debug\netcoreapp3.1\Web Api Project.RazorTargetAssemblyInfo.cache
+C:\Users\DIPIKA\Downloads\Hexaware Joining Docs\Web Api Project\obj\Debug\netcoreapp3.1\staticwebassets\Web Api Project.StaticWebAssets.Manifest.cache
+C:\Users\DIPIKA\Downloads\Hexaware Joining Docs\Web Api Project\obj\Debug\netcoreapp3.1\staticwebassets\Web Api Project.StaticWebAssets.xml
+C:\Users\DIPIKA\Downloads\Hexaware Joining Docs\Web Api Project\obj\Debug\netcoreapp3.1\Web Api Project.dll
+C:\Users\DIPIKA\Downloads\Hexaware Joining Docs\Web Api Project\obj\Debug\netcoreapp3.1\Web Api Project.pdb
+C:\Users\DIPIKA\Downloads\Hexaware Joining Docs\Web Api Project\obj\Debug\netcoreapp3.1\Web Api Project.genruntimeconfig.cache
